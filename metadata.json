@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Poster Designer by TFB",
+  "description": "An application to design promotional ad campaign posters using Gemini. Users can upload images, logos, add text, define a theme, and use AI to generate stylized posters.",
+  "requestFramePermissions": []
+}
